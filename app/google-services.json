@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1099037791326",
+    "project_id": "xd-solution-technology",
+    "storage_bucket": "xd-solution-technology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099037791326:android:dd657777b74dcc71e610cf",
+        "android_client_info": {
+          "package_name": "com.xd.ihsan.myconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099037791326-oalgh7admftn611hao6sl7mfrlk62rt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xd.ihsan.myconnect",
+            "certificate_hash": "7ca50fa3a7d9f5f5f095146103476729abec54d3"
+          }
+        },
+        {
+          "client_id": "1099037791326-pehqabmne0nmo27o100q72ijfe81l78s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMGk0qAojVk6DAzPiNo2yrKy2-z9hfZtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099037791326-pehqabmne0nmo27o100q72ijfe81l78s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

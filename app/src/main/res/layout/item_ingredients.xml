@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="wrap_content"
+        android:layout_marginStart="@dimen/dimen5dp"
+        android:id="@+id/btn_ingredients"
+        android:layout_height="wrap_content"
+        android:background="@color/brand"
+        android:textColor="@color/white"
+        android:fontFamily="@font/qs_medium"
+        android:text="@string/steamed_milk"
+        android:textAllCaps="false"
+        android:padding="@dimen/dimen10dp"/>
+</androidx.appcompat.widget.LinearLayoutCompat>
